@@ -3,7 +3,11 @@
 //What does the alert function do in JavaScript?
 
 //Answer:
-//
+//The alert() function in JavaScript displays a popup dialog box with a specified message and an "OK" button. It's typically used to show simple messages to the user, such as notifications or warnings.
+// The user must click "OK" to close the dialog box and proceed with the rest of the page interaction.
+
+//Here's an example:
+//alert("This is a message!");
 
 //Q #02
 
